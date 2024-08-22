@@ -1,4 +1,4 @@
-# conta-corrente_diaria-monousuario
+# conta-corrente-diaria-monousuario
 
 ## Desafio dio
 
